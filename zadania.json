@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "kategoria": "zakupy",
+        "wykonanie": true,
+        "cel": "Kupic chleb"
+    },
+    {
+        "id": 2,
+        "kategoria": "zakupy",
+        "wykonanie": false,
+        "cel": "Kupic kiełbase"
+    },
+    {
+        "id": 3,
+        "kategoria": "praca domowa",
+        "wykonanie": true,
+        "cel": "wyjść z psem"
+    },
+    {
+        "id": 4,
+        "kategoria": "praca domowa",
+        "wykonanie": true,
+        "cel": "posprzątać "
+    },
+    {
+        "kategoria": "praca domowa",
+        "cel": "zrobic zadanie z nodejs",
+        "wykonanie": false,
+        "id": 5
+    }
+]
